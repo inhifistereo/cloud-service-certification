@@ -36,7 +36,7 @@ white papers, and blog posts.
 <tr class="even">
 <td>Encryption of data in-transit</td>
 <td>Azure Database for PostgreSQL secures your data by encrypting data in-transit with Transport Layer Security. Encryption (SSL/TLS) is enforced by default.</td>
-<td><li><a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit</a></li></td>
+<td><ol type="1"><li><a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit</a></li></ol></td>
 </tr>
 <tr class="odd">
 <td>Encryption Key Management</td>
