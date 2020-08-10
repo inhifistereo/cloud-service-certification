@@ -30,13 +30,13 @@ white papers, and blog posts.
 <td>Encryption of data at-rest</td>
 <td><p>The Azure Database for PostgreSQL service uses the FIPS 140-2 validated cryptographic module for storage encryption of data at-rest. Data, including backups, are encrypted on disk, with the exception of temporary files created while running queries. The service uses the AES 256-bit cipher included in Azure storage encryption, and the keys are system managed. Storage encryption is always on and can't be disabled.</p></td>
 <td><ol type="1">
-<a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#at-rest">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#at-rest</a>
+<li><p><a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#at-rest">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#at-rest</a></p></li>
 </ol></td>
 </tr>
 <tr class="even">
 <td>Encryption of data in-transit</td>
 <td>Azure Database for PostgreSQL secures your data by encrypting data in-transit with Transport Layer Security. Encryption (SSL/TLS) is enforced by default.</td>
-<td><li><p><a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit</a></p></li></td>
+<td><li><a href="https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit">https://docs.microsoft.com/en-us/azure/postgresql/concepts-security#in-transit</a></li></td>
 </tr>
 <tr class="odd">
 <td>Encryption Key Management</td>
